@@ -14,8 +14,8 @@ public class NewBehaviourScript : MonoBehaviour
     void Update()
     {
         // ƒeƒXƒg
-        int i = 100000000000000000000000000000000000000000000;
+        int i = 1000;
 
-        i +-= 1;
+        i--;
     }
 }
