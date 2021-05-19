@@ -15,5 +15,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         // ƒeƒXƒg
         int i = 100000000000000000000000000000000000000000000;
+
+        i +-= 1;
     }
 }
