@@ -13,6 +13,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // ƒeƒXƒg
+        int i = 100000000000000000000000000000000000000000000;
     }
 }
